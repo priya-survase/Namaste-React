@@ -1,4 +1,5 @@
 **1. What is Emmett?**
+
 Emmett is a plugin which can be used in text editors to improve HTML/CSS workflow. It provides with code snippets which helps us to write code fast. You can get the preview of code snippets by typing the short forms (like element name).
 
 **2. Difference between a library and a framework**
@@ -14,6 +15,7 @@ When we call a method from library, we are in control, whereas framework provide
 Libraries are easier to integrate in code and can be easily replace with another library. This is not easy in the case of frameworks.
 
 **3.What is CDN? Why do we use it?**
+
 CDN stand for Content Delivery Network or Content Distribution netwrok.
 
 It is a network of interconnected servers which helps in faster data loading in webapplications.
@@ -22,6 +24,7 @@ If the user is located far away from server, it will take a long ime to load web
 CDN improves the efficiency by introducing intermediate servers between client and the website server.They decrease the traffic to the web server and improves the user experience of your applications. It reduces page load time. It improves web security by reducing the threats of Distributed denial-of-service (DDoS) attacks which are attempts to take application down by increasing fake traffic to web server.
 
 **4. Why is React known as React?**
+
 The name React was chosen as it is meant to make user interfaces more responsive or 'reactive'. The library was designed to react to the changes in data. When the data in React application changes, the components which depend on that data are automatically updated. The name 'React' reflects this reactive nature of the library.
 
 **5.What is crossorigin in script tag?**
