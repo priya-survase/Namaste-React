@@ -1,0 +1,30 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "My First React App without CDN",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priya-survase/Namaste-React.git"
+  },
+  "author": "Priya Survase",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priya-survase/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/priya-survase/Namaste-React#readme",
+  "dependencies": {
+    "parcel": "^2.8.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  },
+  "browserslist": [
+    "last 2 version"
+  ]
+}
