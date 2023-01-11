@@ -18,4 +18,4 @@ It improves readability of code. Code becomes easy to maintain.
 
 {`<TitleComponent/>`} --> It means that TitleComponent is a functional component added in another component.
 
-{`<TitleComponent></TitleComponent>`} --> ?
+{`<TitleComponent></TitleComponent>`} --> TitleComponent is a functional Component.
