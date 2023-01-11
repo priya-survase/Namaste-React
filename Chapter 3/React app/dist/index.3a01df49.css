@@ -1,0 +1,23 @@
+.header {
+  height: 90px;
+  background-color: #fca5a5;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  display: flex;
+}
+
+.img {
+  width: 70px;
+  height: 70px;
+}
+
+.searchbar {
+  height: 20px;
+  width: 500px;
+  background-color: #e2e8f0;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+/*# sourceMappingURL=index.3a01df49.css.map */
